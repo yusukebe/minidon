@@ -1,0 +1,22 @@
+name = "minidon"
+compatibility_date = "2023-01-01"
+
+[site]
+bucket = "./public"
+
+[[ d1_databases ]]
+binding = "DB"
+database_name = "minidon"
+database_id = ""
+preview_database_id = ""
+
+[vars]
+preferredUsername = ""
+name = ""
+BASIC_USERNAME = ""
+BASIC_PASSWORD = ""
+
+PRIVATE_KEY = """-----BEGIN PRIVATE KEY-----
+
+-----END PRIVATE KEY-----
+"""
