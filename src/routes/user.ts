@@ -1,3 +1,8 @@
+/**
+ * Based on Matchbox
+ * Matchbox https://gitlab.com/acefed/matchbox Copyright (c) 2022 Acefed MIT License
+ */
+
 import { Hono } from 'hono'
 import { Env, Follower } from '../types'
 import { exportPublicKey, importprivateKey, privateKeyToPublicKey } from '../utils'

@@ -1,3 +1,8 @@
+/**
+ * Based on Matchbox
+ * Matchbox https://gitlab.com/acefed/matchbox Copyright (c) 2022 Acefed MIT License
+ */
+
 import { btos, stob } from './utils'
 
 export async function getInbox(req: string) {
