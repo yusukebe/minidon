@@ -11,7 +11,7 @@ Minimal implementation of ActivityPub with Cloudflare Workers and D1.
 
 ## Screencast
 
-![output](https://user-images.githubusercontent.com/10682/216821360-3d9550c2-ed9f-45bb-be2c-7d5704b7fc7a.gif)
+![output](https://user-images.githubusercontent.com/10682/216822004-603b867e-203e-48bf-bf13-efa41830eab8.gif)
 
 ## Requirements
 
