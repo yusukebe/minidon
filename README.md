@@ -9,6 +9,10 @@ Minimal implementation of ActivityPub with Cloudflare Workers and D1.
 * Notifying followers of new posts (so new posts show up in their timeline)
 * Web interface to post messages
 
+## Screencast
+
+![output](https://user-images.githubusercontent.com/10682/216821360-3d9550c2-ed9f-45bb-be2c-7d5704b7fc7a.gif)
+
 ## Requirements
 
 * Node.js
